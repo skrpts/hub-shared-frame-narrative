@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "c0c87fe1-2a50-40f1-9415-153bd6636f1c"
+name: "frame-narrative"
+display_name: "Frame Narrative"
+description: "Structures data and findings into a compelling stakeholder narrative"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-frame-narrative"
+category: "shared"
+tags:
+  - "shared"
+  - "prompt"
+contents:
+  skills: 0
+  prompts: 1
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
