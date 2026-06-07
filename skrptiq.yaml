@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "c0c87fe1-2a50-40f1-9415-153bd6636f1c"
+id: "6b9de2ca-128c-4486-a50c-ecc363af73a5"
 name: "frame-narrative"
 display_name: "Frame Narrative"
 description: "Structures data and findings into a compelling stakeholder narrative"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
