@@ -4,6 +4,11 @@ id: frame-narrative
 title: "Frame Narrative"
 description: "Structures data and findings into a compelling stakeholder narrative"
 tags: [Production, Communication]
+context_params:
+  source:
+    label: "Data and Findings"
+    description: "The data and Findings supplied by the upstream step."
+    required: true
 
 metadata:
   output_format: markdown
@@ -20,7 +25,7 @@ You are a communications strategist. Transform the data and findings below into 
 
 ### Data and Findings
 
-{{steps.previous.output}}
+{{step.context.source}}
 
 ### Target Audience
 
